@@ -22,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+run `rspec` to test
+The test input is inside spec/fixtures/test_x.txt
+spec/conf_plan_spec.rb contains expected output.
 
 ## Development
 
