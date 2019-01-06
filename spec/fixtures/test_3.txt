@@ -1,0 +1,10 @@
+ccc 60min
+kkk 60min
+mmm 40min
+fff 20min
+jjj 45min
+sss lightning
+eee 40min 
+nnn 30min
+qqq 45min
+ddd 20min
