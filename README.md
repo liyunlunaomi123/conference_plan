@@ -22,8 +22,10 @@ Or install it yourself as:
 
 ## Usage
 
-run `rspec` to test
-The test input is inside spec/fixtures/test_x.txt
+run `rspec` to test.
+
+The test input is inside spec/fixtures/test_x.txt.
+
 spec/conf_plan_spec.rb contains expected output.
 
 ## Development
